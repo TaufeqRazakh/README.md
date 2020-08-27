@@ -1,11 +1,11 @@
 # Hello World!
 
 <a href="https://github.com/TaufeqRazakh/TaufeqRazakh">
-  <img height= "170px" width = "200px" src="https://github-readme-stats.vercel.app/api?username=TaufeqRazakh&show_icons=true&theme=vue-dark&hide=contribs&incluse_all_commits=true&count_private=true" alt="Catalin's GitHub Stats" />
+  <img width = "200px" src="https://github-readme-stats.vercel.app/api?username=TaufeqRazakh&show_icons=true&theme=vue-dark&hide=contribs&incluse_all_commits=true&count_private=true" alt="Catalin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/TaufeqRazakh/TaufeqRazakh">
-  <img height= "170px" width = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeqRazakh&layout=compact&theme=vue-dark&hide=tcl,roff" />
+  <img width = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeqRazakh&layout=compact&theme=vue-dark&hide=tcl,roff" />
 </a>
 
 ## And since many things are Newtons Equation of Motion
