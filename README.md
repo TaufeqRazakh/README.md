@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/TaufeqRazakh/TaufeqRazakh">
-  <imgheight= "170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeqRazakh&layout=compact&theme=vue-dark&hide=tcl,roff" />
+  <img height= "170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeqRazakh&layout=compact&theme=vue-dark&hide=tcl,roff" />
 </a>
 
 <div height="100px" width="200px"></div>
