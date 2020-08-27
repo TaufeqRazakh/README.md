@@ -8,7 +8,7 @@
   <img align="left" height= "170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeqRazakh&layout=compact&theme=vue-dark&hide=tcl,roff" />
 </a>
 
-<div height="20px" width="200px"></div>
+<div height="100px" width="200px"></div>
 
 ## And since many things are Newtons Equation of Motion
 ```HTML
