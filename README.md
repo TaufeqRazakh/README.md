@@ -8,7 +8,7 @@
 
 <br/>
 
-<img height = "200px" align="left"src="https://github-readme-stats.vercel.app/api?username=TaufeqRazakh&show_icons=true&theme=vue-dark&hide=contribs&incluse_all_commits=true&count_private=true"/>
+<img height = "200px" align="left" src="https://github-readme-stats.vercel.app/api?username=TaufeqRazakh&show_icons=true&theme=vue-dark&hide=contribs&incluse_all_commits=true&count_private=true"/>
 
 <br/>
 
