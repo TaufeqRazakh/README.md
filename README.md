@@ -6,5 +6,5 @@
 </a>
 
 <a href="https://github.com/TaufeqRazakh/TaufeqRazakh">
-  <img align="left" height= "170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeqRazakh&layout=compact&theme=vue-dark&hide=tcl,roff" />
+  <img style = "float:left;height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeqRazakh&layout=compact&theme=vue-dark&hide=tcl,roff" />
 </a>
