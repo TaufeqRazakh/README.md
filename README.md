@@ -6,7 +6,7 @@
 ```
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme/github-buttons" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Star TaufeqRazakh/TaufeqRazakh/ on GitHub">Star</a>
+<a class="github-button" href="https://github.com/TaufeqRazakh/TaufeqRazakh" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Star TaufeqRazakh/TaufeqRazakh/ on GitHub">Star</a>
 
 <img height="60px" src="https://render.githubusercontent.com/render/math?math={m_{i}}\frac{d^2r_{i}}{dt^2}=-\frac{\partial{V(r^{N})}}{\partial{r_{i}}}\quad\text{(}i=1...\text{N)}">
 
