@@ -17,3 +17,7 @@
 <br/>
 
 <img height = "200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeqRazakh&layout=compact&theme=vue-dark&hide=tcl,roff"/>
+
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
