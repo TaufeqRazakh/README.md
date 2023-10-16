@@ -1,6 +1,6 @@
 # Hello World!
 
-I'm currently a PhD student doing HPC at USC. I am looking for internships starting in Fall 2023.
+I'm currently a PhD student doing HPC at USC.
 My work email is razakh [at] University of Southern California's email domain [dot] edu
 
 ## Newtons Equation of Motion anyone ?
