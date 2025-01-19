@@ -5,4 +5,4 @@ My work email is razakh [at] University of Southern California's email domain [d
 
 ## Hi there!
 + if you are looking for an overview of my contributions, see more below. 
-+ if you are looking for my website/portfolio it's [here](https://taufeqrazakh.github.io/). (I havent uodated it since I was a master student)
++ if you are looking for my website it's [here](https://taufeqrazakh.github.io/).
